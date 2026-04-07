@@ -1,5 +1,4 @@
 # Campus Library Management (Lib50)
-#### Description: 
 
 Campus Library Management (also referred to as Lib50) is a fully-responsive web application designed to simulate the digitalization (and streamline the process) of borrowing and returning books in an academic library setting.
 Inspired from the design of 'Finance' assignment from Week 9 (Flask), the application allows a student to register for an account, where they can browse a catalog of books via live-search, check out books, return them, and view a complete history of borrows and returns.
